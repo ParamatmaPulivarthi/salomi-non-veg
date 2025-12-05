@@ -1,0 +1,11 @@
+non~veg~items~costs
+chickencurry~220
+chickenbiryani~300
+chickentikka~290
+muttonbiryani~385
+muttonroganjosh~345
+fishcuury[keralastyle]~169
+prawns[medium'250gnet]~209
+chickenmomos~130
+chillichicken[dry]~250
+chickennuggets[frozen]~170
